@@ -1,0 +1,7 @@
+{
+  "API_BASE_ROOT": "/",
+	"API_CALLBACK": "/callback",
+  "API_SIGN_IN": "/signin",
+  "API_USER_INFO": "/userinfo",
+  "API_SEARCH": "/search"
+}

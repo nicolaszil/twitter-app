@@ -1,0 +1,10 @@
+{
+	"consumerKey": "c52vJyzduURELjqfQyl2oqP6X",
+	"consumerSecret": "bHxpFen4kSwaJJN7AfsHCfyTbVjwlevKKQwGoM5PImHvjFKhe3",
+	"accessToken": "4917340360-e3LLJabA2wYB811CTSYd2GCRM1VR6LUimkEtGKu",
+	"accessTokenSecret": "a4e5Ftghf2cuZTildSYHirwGFSQTojp40piC2JsfNXura",
+	"requestTokenUrl": "https://api.twitter.com/oauth/request_token",
+	"authenticateUrl": "https://api.twitter.com/oauth/authenticate",
+	"accessTokenUrl": "https://api.twitter.com/oauth/access_token",
+	"invalidateTokenUrl": "https://api.twitter.com/1.1/oauth/invalidate_token"
+}
