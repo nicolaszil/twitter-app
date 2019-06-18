@@ -1,3 +1,4 @@
 config/api.json
 data
+dist
 node_modules
